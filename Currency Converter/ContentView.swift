@@ -1,8 +1,7 @@
 //
 //  ContentView.swift
 //  Currency Converter
-//
-//  Created by Apple on 30/05/24.
+// Created by Apple on 30/05/24.
 //
 
 import SwiftUI
